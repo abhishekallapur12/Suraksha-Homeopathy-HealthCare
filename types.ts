@@ -21,6 +21,10 @@ export interface Doctor {
   availability: {
     [key: string]: string;
   };
+  images: {
+    clinical: string;
+    consultation: string;
+  };
 }
 
 export interface ClinicInfo {

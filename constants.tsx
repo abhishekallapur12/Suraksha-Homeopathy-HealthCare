@@ -25,6 +25,10 @@ export const DOCTOR_DATA: Doctor = {
   availability: {
     monSat: "09:00 AM - 08:00 PM",
     sunday: "05:00 PM - 08:00 PM"
+  },
+  images: {
+    clinical: "https://content.jdmagicbox.com/v2/comp/bangalore/q3/080pxx80.xx80.170129143610.i9q3/catalogue/suraksha-homeopathy-health-care-koramangala-bangalore-homeopathic-clinics-ezki6noc9c.jpg?imwidth=463.3333333333333",
+    consultation: "https://content.jdmagicbox.com/v2/comp/bangalore/q3/080pxx80.xx80.170129143610.i9q3/catalogue/suraksha-homeopathy-health-care-koramangala-bangalore-homeopathic-clinics-zqi0yabem4.jpg?imwidth=463.3333333333333"
   }
 };
 

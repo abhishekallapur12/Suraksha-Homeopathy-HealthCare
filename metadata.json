@@ -1,0 +1,7 @@
+{
+  "name": "Suraksha Homeopathy Healthcare",
+  "description": "A professional healthcare clinic website for Suraksha Homeopathy Healthcare, featuring holistic homeopathy, psychological counseling, and patient-centered care in Bangalore.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
